@@ -1,0 +1,4 @@
+int Cube(int num)
+{
+    return num * num * num;
+}
